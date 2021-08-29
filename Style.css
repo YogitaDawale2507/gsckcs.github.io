@@ -1,0 +1,258 @@
+
+.index
+{
+	width:100%;
+	border-Style:hidden;
+}
+.headerpart
+{
+	width:100%px;
+	height:190px;
+	border-Style:hidden;
+    background-image: url("images/header.jpg"); 
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.headerpart H1
+  {text-shadow:3px 2px;
+	color:darkblue;
+	text-size:55Px;
+	}
+.linkpart ul
+{
+	margin:0px;
+	padding:0px;
+}
+.linkpart ul li
+{   
+     background-color:black;
+	 width:19%;
+	 height:40px;
+	 line-height:40px;
+	 float:left;
+	 border:3px solid white;
+	 text-align:center;
+	Border-Style:groove;
+	 
+}
+.linkpart ul li a
+{
+	 color:white;
+	 text-decoration:none;
+	 display:block;
+	 
+}
+
+.linkpart ul li a:hover
+{
+	
+   background-color:skyblue;
+}  
+
+.linkpart ul li ul li{
+	display:none;
+}
+.linkpart ul li:hover ul li
+{
+   display:block;	
+}
+.linkpart ul ul li
+{ width:230px;
+ float:none;
+ display:list-item;
+ position:relative;
+}
+.linkpart ul ul ul li{
+	position:relative;
+	top;-60px;
+left:150px;}
+.linkpart ul ul ul
+{left:150px;}
+
+.bodypart .imagepart
+{     width:100%;
+	  height:500px;
+	  border-Style:hidden;
+	  background-image: url("images/h1.jpg");
+	  background-repeat: no-repeat;
+     background-position: center top;
+}
+.bodypart .imagepart2{
+	  width:100%;
+	  height:500px;
+	  border-Style:hidden;
+	  background-image: url("images/lab3M.jpg");
+	  background-repeat: no-repeat;
+	  background-color:linen;
+}
+.bodypart .imagepart6{
+	  width:100%;
+	  height:500px;
+	  border-Style:hidden;
+	  background-image: url("images/BCA2.jpg");
+	  background-repeat: no-repeat;
+	  background-color:linen;
+}
+.bodypart .imagepart3{
+	  width:100%;
+	  height:500px;
+	  border-Style:hidden;
+	  background-image: url("images/aj.jpg");
+	  background-repeat: no-repeat;
+	  background-color:linen;
+}
+	
+.bodypart .imagepart5{
+	  width:100%;
+	  height:130px;
+	  background-image: url("images/IOT.jpg");
+	  background-repeat: no-repeat;
+	  background-color:linen;
+}
+.bodypart .imagepart4{
+	  width:100%;
+	  height:150px;
+	  background-image: url("images/ad1.jpg");
+	  background-repeat: no-repeat;
+	  background-color:linen;
+}
+.content p {
+	background:linear-gradient(#8A0651,#000000,#424242);
+    background:-webkit-linear-gradient(#8A0651,#000000,#424242);
+	line-height:32px;
+	font-family:Arial;
+	font-size:20px;
+	margin:30px;
+	text-align:justify;
+	text-indent:80px;
+	color:White;
+}
+	
+}
+
+.content99 p{
+	background:linear-gradient(#8A0651,#000000,#424242,purple);
+    background:-webkit-linear-gradient(#8A0651,#000000,#424242,);
+	word-Spacing:9px;
+	line-height:32px;
+	font-family:Times New Roman;
+	font-size:20px;
+	margin:30px;
+	text-align:justify;
+	text-indent:80px;
+	color:White;
+}
+
+.content H1{
+	color:navy;
+}
+.content1 H1{
+	color:green;
+}
+.content1 p{
+	
+	color:Maroon ;
+	font-size:40px;
+	font-family:Times New Roman;
+	font-size:20px;
+	margin:40px;
+text-indent:60px;
+}
+.content2 p{
+	Background-color:linen;
+	word-Spacing:9px;
+	line-height:40px;
+	font-family:Times New Roman;
+	font-size:20px;
+	margin:40px;
+	text-indent:60px;
+}
+.content2 table{
+	background:linear-gradient(Coral, yellow);
+    background:-webkit-linear-gradient(Coral,yellow);
+	Background-color:linen;
+	word-Spacing:9px;
+	line-height:40px;
+	font-family:Times New Roman;
+	font-size:20px;
+	margin:40px;
+	width :910px;
+}
+.content3 p {
+	Background-color:olive;
+	word-Spacing:9px;
+	line-height:40px;
+	font-family:Times New Roman;
+	font-size:20px;
+	margin:40px;
+	color:black;
+}
+.content3  H1,h1 {
+	color:navy;
+}
+.content3 I {
+	color:green;
+	word-Spacing:9px;
+	line-height:30px;
+	font-family:Times New Roman;
+	font-size:25px;
+	margin:60px;	
+}
+
+.content4 p{
+	color:Maroon;
+	word-Spacing:9px;
+	line-height:20px;
+	font-family:Times New Roman;
+	font-size:20px;
+	margin:40px;
+}
+
+.content5 p{
+	color:Red;
+	word-Spacing:9px;
+	line-height:50px;
+	font-family:Times New Roman;
+	font-size:30px;
+	margin:50px;
+	Background-color:linen;
+}
+.content6 p{
+	color:black;
+	word-Spacing:9px;
+	line-height:50px;
+	font-family:Times New Roman;
+	font-size:30px;
+	margin:50px;
+	background:linear-gradient(top, #3c3c3c 0%, #222222 100%);
+    background:-webkit-linear-gradient(top, #3c3c3c 0%, #222222 100%);
+
+}
+.content6 ul{
+	color:black;
+	word-Spacing:9px;
+	line-height:50px;
+	font-family:Times New Roman;
+	font-size:30px;
+	margin:50px;
+	background:linear-gradient(pink,yellow,aqua);
+    background:-webkit-linear-gradient(pink,yellow,aqua);
+}
+
+@keyframes example {
+  from {background-image:url("images/h1.jpg");}
+  to {background-image:url("images/BCA2.jpg");}
+}
+
+/* The element to apply the animation to */
+.example {
+  width: 700px;
+  height: 500px;
+  background-image:url("images/h1.jpg");
+  background-image:url("images/BCA2.jpg");
+  animation-name: example;
+  animation-duration:4s;
+  animation-iteration-count:infinite;
+  animation-direction:alternate;
+  margin-left:150px;
+}
